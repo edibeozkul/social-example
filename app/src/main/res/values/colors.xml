@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#e8eae6</color> //fromkismi
+    <color name="purple_500">#D4145A</color> //tepe
+    <color name="purple_700">#D4145A</color> //tepenintepesi
+    <color name="teal_200">#FFFFFFFF</color>
+    <color name="teal_700">#D4145A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
