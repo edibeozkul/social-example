@@ -1,5 +1,6 @@
 # social-example
 This is an example of a simple social platform application.
+This application has been developed in Java language for use on Android devices using Android Studio.
 
 <img src="https://user-images.githubusercontent.com/47818773/107126411-ca2eb400-68c0-11eb-9904-47f8e6006c02.jpg" alt="social-example" width="450" height="960">
 <img src="https://user-images.githubusercontent.com/47818773/107126414-cdc23b00-68c0-11eb-88e4-013dc4ed0f32.jpg" alt="social-example" width="450" height="960">
